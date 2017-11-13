@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version 2.4.1
 
-* System dependencies
+* System dependencies: Rails 4.2.8
 
 * Configuration
 
